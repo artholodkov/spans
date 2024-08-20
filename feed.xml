@@ -16,13 +16,13 @@
             </set>
             <set id="s2">
                 <name>Тарифы</name>
-                <url>https://cryptus.education/#tarif</url>
+                <url>https://cryptus.education/</url>
             </set>
         </sets>
         <offers>
             <offer id="001">
                 <name>За руку с профи</name>
-                <url>https://cryptus.education/#tarif</url>
+                <url>https://cryptus.education/</url>
                 <categoryId>101</categoryId>
                 <set-ids>s1,s2</set-ids>
                 <price>92000</price>
@@ -39,7 +39,7 @@
             </offer>
             <offer id="002">
                 <name>Премиум киты</name>
-                <url>https://cryptus.education/#tarif</url>
+                <url>https://cryptus.education/</url>
                 <categoryId>102</categoryId>
                 <set-ids>s1,s2</set-ids>
                 <price>359000</price>
