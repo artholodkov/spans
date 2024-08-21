@@ -1,5 +1,4 @@
-<yml_catalog date="2024-08-19 12:00">
-    <shop>
+<yml_catalog date="2024-08-21 12:00">
         <name>Cryptus Education</name>
         <company>ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ КОПАНЬ ВЯЧЕСЛАВ ВЛАДИМИРОВИЧ</company>
         <url>https://cryptus.education/</url>
@@ -23,14 +22,21 @@
             <offer id="001">
                 <name>За руку с профи</name>
                 <url>https://cryptus.education/</url>
-                <categoryId>101</categoryId>
-                <set-ids>s1,s2</set-ids>
+                <categoryId>Образовательные курсы</categoryId>
+                <categoryId>Курсы по криптовалюте</categoryId>
                 <price>92000</price>
                 <currencyId>RUR</currencyId>
                 <param name="Цена по скидке">82800</param>
-                <param name="Оплата в рассрочку" unit="месяц">24</param>
+                <param name="Оплата в рассрочку" unit="месяца">24</param>
                 <param name="Ежемесячная цена по скидке">3400</param>
-                <param name="Продолжительность" unit="месяц">4.5</param>
+                <param name="Продолжительность" unit="месяца">4.5</param>
+                <param name="Формат">Онлайн</param>
+                <param plan="Технология блокчейна"></param>
+                <param plan="Биржи и кошельки"></param>
+                <param plan="Инвестиции"></param>
+                <param plan="DeFi"></param>
+                <param plan="Drophunt"></param>
+                <param plan="Early projects"></param>
                 <param name="Поддержка 24/7">true</param>
                 <param name="Доступ ко всем материалам на 8 месяцев">true</param>
                 <param name="7 модулей, 48 лекций, 30 домашних заданий">true</param>
@@ -40,14 +46,20 @@
             <offer id="002">
                 <name>Премиум киты</name>
                 <url>https://cryptus.education/</url>
-                <categoryId>102</categoryId>
-                <set-ids>s1,s2</set-ids>
+                <categoryId>Образовательные курсы</categoryId>
+                <categoryId>Курсы по криптовалюте</categoryId>
                 <price>359000</price>
                 <currencyId>RUR</currencyId>
                 <param name="Цена по скидке">323100</param>
                 <param name="Оплата в рассрочку" unit="месяц">24</param>
                 <param name="Ежемесячная цена по скидке">13462</param>
                 <param name="Все, что в тарифе «За руку с профи»">true</param>
+                <param plan="Технология блокчейна"></param>
+                <param plan="Биржи и кошельки"></param>
+                <param plan="Инвестиции"></param>
+                <param plan="DeFi"></param>
+                <param plan="Drophunt"></param>
+                <param plan="Early projects"></param>
                 <param name="Ежемесячные созвоны с экспертами курса">true</param>
                 <param name="Нетворкинг-сессии с участниками премиум тарифа">true</param>
                 <param name="Доступ в закрытое сообщество UNION на 3 месяца">true</param>
@@ -57,5 +69,4 @@
                 <description>Премиум курс для профессионалов, желающих увеличить капитал и выйти на новый уровень торговли</description>
             </offer>
         </offers>
-    </shop>
 </yml_catalog>
